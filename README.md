@@ -18,6 +18,11 @@ This document provides instructions for setting up the development environment a
 4. **Run `flutter pub get`:** This command will install all the dependencies required by your app.
 5. **Run** `dart run build_runner build`: This command will generate all the code that needs to be generated for packages that depends on code generation.
 
+### Firebase Setup:
+
+- I have configured this project using flutterfire_cli.
+- You can add your own project (I have added my configuration in this repo) using `flutterfire configure`
+
 ### Testing:
 
 ##### **Run the app:**
