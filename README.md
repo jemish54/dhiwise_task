@@ -31,4 +31,6 @@ This document provides instructions for setting up the development environment a
 - **iOS:** Run `flutter run -d [device_name]`, where `[device_name]` is the name of your iOS device.
 
 
+### Demo
 
+[![Demo Video](./demo.mp4)](./demo.mp4)
